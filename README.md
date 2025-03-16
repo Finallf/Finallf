@@ -23,8 +23,8 @@
         <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vsphere/vsphere-original.svg">
         <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg">
       </div>
-        <img height="80em" src="https://github-readme-stats.vercel.app/api/pin/?username=Finallf&repo=risemode"/>
-        <img height="80em" src="https://github-readme-stats.vercel.app/api/pin/?username=Finallf&repo=hands"/>
+        <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Finallf&repo=risemode"/>
+        <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Finallf&repo=hands"/>
 </div>
 
 
