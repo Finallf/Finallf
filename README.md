@@ -2,8 +2,8 @@
 
 <div align="center" >
     <a href="https://github.com/Finallf">
-        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Finallf&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Finallf&layout=compact&theme=github_dark"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Finallf&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+        <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Finallf&layout=compact&theme=github_dark"/>
 ##
       <div>
         <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
